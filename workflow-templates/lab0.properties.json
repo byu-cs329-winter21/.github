@@ -1,0 +1,8 @@
+{
+    "name": "Lab 0 Workflow",
+    "description": "Builds and tests lab 0 PRs",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ]
+}
